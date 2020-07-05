@@ -6,4 +6,4 @@
 - Multinomial with hyper parameters
 
 
-- Will be applying neural networks soon , until then try to improve the code.(RNN and LSTM)
+Will be applying neural networks soon(RNN and LSTM) , until then try different things and improve the code.
